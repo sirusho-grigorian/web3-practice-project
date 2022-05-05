@@ -1,0 +1,9 @@
+.history
+.next
+node_modules
+yarn.lock
+package-lock.json
+public
+buildspec.yml
+_app.tsx
+_document.tsx
